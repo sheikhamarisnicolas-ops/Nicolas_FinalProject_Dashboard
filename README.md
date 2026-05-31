@@ -18,4 +18,4 @@ By executing data cleaning (linear interpolation, year-median imputation, and lo
 ## 💻 Author & Course Identity
 * **Student Researcher:** Sheikha Maris Nicolas
 * **Course Section:** BSIS 3B
-* **Subject Focus:** Data Mining / Business Analytics Project Submission
+* **Subject Focus:** Business Analytics Project Submission
