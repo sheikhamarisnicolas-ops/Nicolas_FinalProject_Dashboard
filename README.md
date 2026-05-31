@@ -21,7 +21,7 @@ Following the required analytical framework, this project addresses the core res
 ---
 
 ## 📊 2. Data Collection & Sources
-The analytical dataset profiles a robust panel of **191 countries over a 24-year horizon (2000–2023)**. To construct a reliable data matrix, primary indicators were extracted and merged from premier international institutions:
+The analytical dataset profiles a robust panel of **190 countries over a 24-year horizon (2000–2023)**. To construct a reliable data matrix, primary indicators were extracted and merged from premier international institutions:
 1. **Our World in Data (OWID):** Core learning outcomes and literacy baseline indicators.
 2. **The World Bank Open Data:** National macro-financial indicators and demographic metrics.
 3. **UNESCO Institute for Statistics (UIS):** Public education expenditures and standardized completion indices.
